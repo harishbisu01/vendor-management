@@ -1,0 +1,10 @@
+{
+    "name": "contract",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@ts-rest/core": "^3.45.2",
+        "@ts-rest/nest": "^3.33.0",
+        "zod": "^3.23.6"
+    }
+}
